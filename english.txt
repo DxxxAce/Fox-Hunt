@@ -1,0 +1,18 @@
+Fox Hunt
+Player vs. Computer
+Player vs. Player
+Exit
+Restart
+Main Menu
+Fox's turn.
+Dogs' turn.
+  Player's turn.
+Computer's turn.
+The fox reached the last line.
+The dogs can no longer stop the fox.
+The fox has no moves left.
+Player wins!
+Computer wins!
+Fox wins!
+Dogs win!
+

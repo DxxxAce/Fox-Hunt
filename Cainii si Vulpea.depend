@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1610808809 source:c:\users\alinh\onedrive\documents\github\cainii-si-vulpea-fii\project-files\cpp\cainii si vulpea\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+
+1610811531 source:c:\users\claudiu\documents\github\cainii-si-vulpea\project-files\cpp\cainii si vulpea\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+
+1609941252 source:c:\users\alin\documents\github\cainii-si-vulpea-fii\project-files\cpp\cainii si vulpea\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+
